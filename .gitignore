@@ -1,4 +1,4 @@
 AwsCredentials.properties
 .idea
-target/
+target/nmv,vhc,gcj,
 *.iml
